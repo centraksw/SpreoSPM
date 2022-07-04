@@ -5,6 +5,15 @@ import PackageDescription
 
 let package = Package(
     name: "SpreoSMP",
+    platforms: [
+        .iOS(.v11)
+    ],
+    products: [
+        .library(
+            name: "SpreoSMP",
+            targets: ["SpreoSMP"]
+        )
+    ],
     targets: [
         .binaryTarget(name: "IndoorKit",
                       path: "IndoorKit.xcframework"),
@@ -19,6 +28,15 @@ let package = Package(
         .binaryTarget(name: "GoogleMapsCore",
                       url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/6.0.0/GoogleMapsCore.xcframework.zip",
                       checksum: "3c628402426869708f2b160e51526b5088e8d7a398b454ec7cba2ba11729cdb2"
+        ),
+        .target(name: "SpreoSMP",
+                dependencies: [
+                    .target(name: "IndoorKit", condition: .when(platforms: .some([.iOS]))),
+                    .target(name: "GoogleMaps", condition: .when(platforms: .some([.iOS]))),
+                    .target(name: "GoogleMapsBase", condition: .when(platforms: .some([.iOS]))),
+                    .target(name: "GoogleMapsCore", condition: .when(platforms: .some([.iOS])))
+                ],
+                path: "Sources/SpreoSPM"
         )
     ]
 )
