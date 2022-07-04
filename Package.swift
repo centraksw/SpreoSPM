@@ -36,7 +36,8 @@ let package = Package(
                     .target(name: "GoogleMapsBase", condition: .when(platforms: .some([.iOS]))),
                     .target(name: "GoogleMapsCore", condition: .when(platforms: .some([.iOS])))
                 ],
-                path: "Sources/SpreoSPM"
+                path: "Sources/SpreoSPM",
+                resources: [.copy("IndoorKit.bundle")]
         )
     ]
 )
