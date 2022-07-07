@@ -11,14 +11,12 @@ let package = Package(
     products: [
         .library(
             name: "SpreoSMP",
+            type: .dynamic,
             targets: ["SpreoSMP"]
         )
     ],
     targets: [
-        .binaryTarget(name: "IndoorKit",
-                      url: "https://github.com/SpreoLLC/SpreoSPM/releases/download/0.0.1/IndoorKit.xcframework.zip",
-                      checksum: "323a7c44d9a41656e4ea89f250ac753b647a2d6655a5e36725743d8863cb7b9e"
-        ),
+        .binaryTarget(name: "IndoorKit", path: "IndoorKit.xcframework"),
         .binaryTarget(name: "GoogleMaps",
                       url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/6.0.0/GoogleMaps.xcframework.zip",
                       checksum: "cd775df376017bf507d3f0bdfc29a60ebbe35f58a44333a54a7786c07c546036"
@@ -38,7 +36,8 @@ let package = Package(
                     .target(name: "GoogleMapsBase", condition: .when(platforms: .some([.iOS]))),
                     .target(name: "GoogleMapsCore", condition: .when(platforms: .some([.iOS])))
                 ],
-                path: "Sources/SpreoSPM"
+                path: "Sources/SpreoSPM",
+                resources: [.copy("IndoorKit.bundle")]
         )
     ]
 )

@@ -1,0 +1,6 @@
+framework module IndoorKit {
+  umbrella header "IndoorKit.h"
+
+  export *
+  module * { export * }
+}
