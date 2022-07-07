@@ -14,21 +14,18 @@ let package = Package(
             targets: ["SpreoSMP"]
         )
     ],
+    dependencies: [
+        .package(url: "https://github.com/YAtechnologies/GoogleMaps-SP.git", .upToNextMinor(from: "6.0.0"))
+    ],
     targets: [
         .binaryTarget(name: "IndoorKit", path: "IndoorKit.xcframework"),
-        .binaryTarget(name: "GoogleMaps", path: "GoogleMaps.xcframework"),
-        .binaryTarget(name: "GoogleMapsBase", path: "GoogleMapsBase.xcframework"),
-        .binaryTarget(name: "GoogleMapsCore", path: "GoogleMapsCore.xcframework"),
         .target(name: "SpreoSMP",
                 dependencies: [
                     .target(name: "IndoorKit", condition: .when(platforms: .some([.iOS]))),
-                    .target(name: "GoogleMaps", condition: .when(platforms: .some([.iOS]))),
-                    .target(name: "GoogleMapsBase", condition: .when(platforms: .some([.iOS]))),
-                    .target(name: "GoogleMapsCore", condition: .when(platforms: .some([.iOS])))
+                    .product(name: "GoogleMaps", package: "GoogleMaps-SP")
                 ],
                 path: "Sources/SpreoSPM",
-                resources: [.copy("IndoorKit.bundle"),
-                            .copy("GoogleMaps.bundle")]
+                resources: [.copy("IndoorKit.bundle")]
         )
     ]
 )
