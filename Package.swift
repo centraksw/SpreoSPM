@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SpreoSMP",
     platforms: [
-        .iOS(.v11)
+        .iOS(.v13)
     ],
     products: [
         .library(
@@ -17,8 +17,8 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "IndoorKit",
-                      url: "https://github.com/SpreoLLC/SpreoSPM/releases/download/6.9.11/IndoorKit.xcframework.zip",
-                      checksum: "019d1908a80212f74e773971202c6abbe3ac7c8a9888ba275701245bab4ce17c"),
+                      url: "https://github.com/SpreoLLC/SpreoSPM/releases/download/6.9.11.1/IndoorKit.xcframework.zip",
+                      checksum: "1824d359b6a40b10cab79b96a81fc881a825f20a5aef7212ec5137f64d510954"),
         .target(name: "SpreoSMP",
                 dependencies: [
                     .target(name: "IndoorKit", condition: .when(platforms: .some([.iOS])))
