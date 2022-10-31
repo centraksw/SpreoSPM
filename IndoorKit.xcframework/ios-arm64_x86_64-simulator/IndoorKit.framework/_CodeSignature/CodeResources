@@ -1648,7 +1648,7 @@
 		</data>
 		<key>Headers/IDDualMapViewController.h</key>
 		<data>
-		QrkA0DKWnrU3Wr1j36km/F2QA1Y=
+		KO8WWUA0eCECkA3nNB/LGf4phMc=
 		</data>
 		<key>Headers/IDDualMapViewControllerDelegate.h</key>
 		<data>
@@ -1684,7 +1684,7 @@
 		</data>
 		<key>Headers/IDKit.h</key>
 		<data>
-		7bBns87NJMc++9uybtZiakdgqfA=
+		jAdP7/VNac2a9y1OWufDg5THBlo=
 		</data>
 		<key>Headers/IDLabel.h</key>
 		<data>
@@ -2376,7 +2376,7 @@
 		</data>
 		<key>IndoorKit.bundle/Info.plist</key>
 		<data>
-		4UPrWMxXJLbfUtcgEPE1TxSGG/s=
+		u1Q9qiAxfnFmXbhuWOXcIsfsO8s=
 		</data>
 		<key>IndoorKit.bundle/OutdoorMapViewController.nib</key>
 		<data>
@@ -2384,7 +2384,7 @@
 		</data>
 		<key>IndoorKit.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		6RAGkAPePDJEwsPmWUarafB3mtI=
+		3C2zAlKm7Sn2gFjT5kKMs0/4Z10=
 		</data>
 		<key>IndoorKit.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -2392,7 +2392,7 @@
 		</data>
 		<key>IndoorKit.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		SL9kffdqcXAMJBdVcJFwUY5TeGg=
+		NDjGBoTOXD7g4RmfUBCn/pVOHaw=
 		</data>
 		<key>IndoorKit.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -2732,7 +2732,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bKL2aN0A3JsUTsXW6ayA+WgTLJU=
+		pqL3uVL6r+S61QYysuEThZwi7UA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -4957,7 +4957,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pSWZ+aBzIf5klKFVUO7QRYYDR9XBGkxbpqERyz/SIfk=
+			kO8Go0FbZMUCHrug9DZJpo8kyTWi3fUpy84qEsX2LCg=
 			</data>
 		</dict>
 		<key>Headers/IDDualMapViewControllerDelegate.h</key>
@@ -5020,7 +5020,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cvjRmUxStVMAi3NCfo6iDcfOvmylqUrLdq1fT06rKwo=
+			Luc8q9B14z4qwWiQ9L1gDMRG7HFdEEcIHxWNNhVhlF4=
 			</data>
 		</dict>
 		<key>Headers/IDLabel.h</key>
@@ -6231,7 +6231,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+WHjIHbinjCerLRYe1NOT8N3i1B3LE4Xvqb2CwMYgxA=
+			QB3AYFNYmdCuAxLf5oaF+o8WxFD06csm2hbRP5k4SxY=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/OutdoorMapViewController.nib</key>
@@ -6245,7 +6245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bzSHLpO13h2mOLxyy9FLrHxpqJuCMkddXrYrBuVJ4so=
+			WxrB/vyIEQ1ndLMJ/T46Wde6HVKke0pvp+ve/giqit8=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/_CodeSignature/CodeRequirements</key>
@@ -6259,7 +6259,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yO2/t4/kVxHYwPJZPTpVkE3HMpwDBfIXn4Ai4/ZTcOw=
+			dGwVKZ0ByaOj0CXmgjVFXTEBtB1C7FxO8tOjWPPapVQ=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/_CodeSignature/CodeResources</key>
