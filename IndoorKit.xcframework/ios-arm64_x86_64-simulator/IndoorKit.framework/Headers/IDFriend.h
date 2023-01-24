@@ -8,9 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-
-@class IDLocation;
 @class GMSMarker;
+@class IDLocation;
 
 @interface IDFriend : NSObject 
 

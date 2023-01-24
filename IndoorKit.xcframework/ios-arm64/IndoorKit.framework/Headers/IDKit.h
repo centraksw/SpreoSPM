@@ -15,6 +15,7 @@
 #import <IndoorKit/IDUser.h>
 //
 #import <IndoorKit/IDGeofence.h>
+#import <IndoorKit/IDCampaign.h>
 //
 #import <IndoorKit/IDGeofenceDelegate.h>
 //
@@ -99,6 +100,18 @@
  * @param   anError if an error occurs, upon return contains an IDError object that describes the problem.
  */
 + (void)setAPIKey:(NSString *_Nullable)anAPIKey error:(IDError *_Nullable *_Nullable)anError;
+
+
+////////////////////////////////////////////////////////////////////////////////////////
+// + setAPIKey:completion:
+/*!
+ * The method register to services and enables the application to use the
+ corresponding location, navigation and geofence services with server communication.
+ * @param   anAPIKey app api key
+ * @param   completion if an error occurs, upon return contains an block with IDError object that describes the problem.
+ */
+
++ (void)setAPIKey:(NSString *_Nullable)anAPIKey completion:(void (^)( IDError *error))completion;
 
 
 ////////////////////////////////////////////////////////////////////////////////////////
@@ -721,6 +734,18 @@
 + (NSArray <IDGeofence *> *_Nonnull)getAllGeofencesList;
 
 ////////////////////////////////////////////////////////////////////////////////////////
+// + getAllCampaignsList:facilityId
+//
+/*!
+ * The method returns the cms campaign (content) objects (IDCampaign) in array by facility.
+ * @param   aFacilityId facility identifier string
+ * @param   aCampusId campus identifier string
+ * @return  array of IDCampaign objects
+ */
+
++ (NSArray <IDCampaign *> *_Nullable)getAllCampaignsList:(NSString *)aFacilityId atCampusId:(NSString*)aCampusId;
+
+////////////////////////////////////////////////////////////////////////////////////////
 // + registerForGeofenceTypes:withDelegate:
 //
 /*!
@@ -731,7 +756,6 @@
  */
 
 + (void)registerForGeofenceTypes:(NSArray <NSString *> *_Nonnull)aTypes withDelegate:(nullable id<IDGeofenceDelegate>)aDelegate;
-
 
 
 ////////////////////////////////////////////////////////////////////////////////////////
@@ -745,7 +769,6 @@
  */
 
 + (void)unRegisterForGeofenceTypes:(NSArray <NSString *> *_Nonnull)aTypes withDelegate:(nullable id<IDGeofenceDelegate> )aDelegate;
-
 
 #pragma mark - ViewControllers APIs
 

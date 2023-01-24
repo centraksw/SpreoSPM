@@ -45,7 +45,8 @@ typedef NS_ENUM(NSInteger, IDRegionEventType) {
     kRegionEventNon,
     kRegionEventIn,
     kRegionEventOut,
-    kRegionEventDuringIn
+    kRegionEventDuringIn,
+    kRegionEventInOut
 };
 
 ////////////////////////////////////////////////////////////////////////////////////////////

@@ -6,11 +6,11 @@
 	<dict>
 		<key>Frameworks/GoogleMaps.framework/GoogleMaps</key>
 		<data>
-		DJJ+UYWsllBhigOVIL+bLW7ChVY=
+		8BZcWFZS6mHJF/Rt5IA9lKLqwmc=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/Assets.car</key>
 		<data>
-		d2OhNdoN+IG9TenGvyKwyViJMy8=
+		hf99c8bGZ6sY/VjUvL1+3+3ZnLE=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
 		<data>
-		alf+JQ9qfbrBJzB/qvhfk8ggb2I=
+		HTYqw3m8dIaBrYtkwin0OHV6t04=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
 		<data>
-		cB8uFYXKZmT50egeHhc61blWkUg=
+		hrpZF0SXVR9KO2B2Wo0PRgu8k6Y=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/GMSShaders.metallib</key>
 		<data>
-		UpVdEITMUhuovB8PQ5ed88Q9JHM=
+		lYsarhFZiUlC3UCzU+2jbsV4s30=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/GMSShadersSim.metallib</key>
 		<data>
-		d/zC+O/7tBzQq1YE8tWYUmWI2uU=
+		bHcmtGTsiZarNuPprlTa4OOAbaQ=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
 		<data>
-		nhfkFKdtUMBS7fd/13NqmY0Em7E=
+		MB8yb6FUlL4ZRHl8EUCwuZ8xU7g=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
 		<data>
@@ -285,7 +285,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EkVuUv6RtviRuGZAFmgCZQXC4Hc=
+			1ujl9sSXJxnWubPACamW+btU9Pw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -533,7 +533,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wQ4U/Q+p5/zoTHZwv8VBf3uhAk0=
+			x9Hiy4AniUrBTVmJNVaNZuNH6PQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -755,7 +755,7 @@
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/Info.plist</key>
 		<data>
-		EqUhHomm7NWl2usULOSqsTVFFBA=
+		0WKH8d2wctB93EUHM5ZzVaacpaE=
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/bubble_left.png</key>
 		<data>
@@ -807,31 +807,27 @@
 		</data>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
 		<data>
-		U5H6ay6ylwt2MsdCGcH6n2ntkJs=
+		6Xf2/X7O6OK+/Rim4AHs2r9UbWU=
 		</data>
 		<key>Frameworks/GoogleMapsBase.framework/GoogleMapsBase</key>
 		<data>
-		m8kRekwappQ5csxrpX/gAjrGigg=
+		TTSLT5QngoIdItVmHpjahECkyNA=
 		</data>
 		<key>Frameworks/GoogleMapsCore.framework/GoogleMapsCore</key>
 		<data>
-		LHpuSQIeVzTGCKATRxQx6rpdXN4=
-		</data>
-		<key>GoogleMaps.bundle/Assets.car</key>
-		<data>
-		d2OhNdoN+IG9TenGvyKwyViJMy8=
+		9F2SAXCyCO2q6m95luV19/BUZkE=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
-		6xa+f3YJTyV2uQzd9QC3rRwsluQ=
+		9hItE7cam7cFT3BaDO2jRaVl++k=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.mom</key>
 		<data>
-		ERMuR7yBrjUr/jmtt9HYI8dEhpk=
+		jWW7ZPqoHp9r/VkV5TAS6QweOT0=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.mom</key>
 		<data>
-		YotiW1KG8+OLofkZgxUBa7UKq04=
+		17TWMdNkUn9Y1kf0T1a87tsOwMw=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
 		<data>
@@ -839,7 +835,7 @@
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
 		<data>
-		cB8uFYXKZmT50egeHhc61blWkUg=
+		q7vOrPJjfexG7cNkjSgBjLDhSDE=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
 		<data>
@@ -869,29 +865,21 @@
 		<data>
 		71kfAzHiEMvBEzOv7EHvlQHjfuA=
 		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSShaders.metallib</key>
-		<data>
-		UpVdEITMUhuovB8PQ5ed88Q9JHM=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSShadersSim.metallib</key>
-		<data>
-		d/zC+O/7tBzQq1YE8tWYUmWI2uU=
-		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
 		<data>
-		ey+dHScVUXPkJIjjHuWIHqMc+x4=
+		GtYxa3Gkexj4FjCDWBF6FLifLkw=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-2x.png</key>
 		<data>
-		PiTZA77HRySkmvo2YD7uXS0sYS8=
+		vzxhcyUyL5CsMUYrWSu1GxbngRA=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-3x.png</key>
 		<data>
-		P7DEu6rMJYoBQSGW31uStrq81F0=
+		E+hNC46dAe/+GJ4ZgsXw+TUjOn4=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
 		<data>
-		nhfkFKdtUMBS7fd/13NqmY0Em7E=
+		IGc9zdYC1nH4aiQ0RY/JuqBn+EE=
 		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
 		<data>
@@ -901,7 +889,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JbmKQ7Yi9nb9O+v/B5QrGMl5qbc=
+			DYEkXifrnyd5R0ofiWfPKDrnKwI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -946,7 +934,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yjTzffTeb5fDlSkw3rG/aYIOdgQ=
+			ImDk4CYgJ4IgRMw+UrPXH5pXKKo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -955,7 +943,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bzTpYpYOsxUvdELEsNav7tg8Uqg=
+			A37EFI2mlKh/O+1ebzJVmQH6M0E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -964,7 +952,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1WXJdseg4LVPpUrAIbaFXL0iRU4=
+			+HRGk06ODHRw9CiruJkP9e85akk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -977,7 +965,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kXIJA6+wX/K9jf2Hujfjog3tcNo=
+			N7DWdqmeo7RFTG52YEg8RFbRCnY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -986,7 +974,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ue+ybnKPpYbbRYlnUjLCJ23NmIA=
+			pnyeYAQfgaWJa1r16/HDVQ42ZAs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -995,7 +983,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IHYnabnDXvmCRBqRyQB2tV7WS6I=
+			amAY+KhCde3J9NNQ0RQpUwpI8AY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1004,7 +992,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5lJIfvDH2f7QNivaY24C1v3IMSA=
+			g7H3wyZvgr6zKTVRwmTsgRdSPgc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1013,7 +1001,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5lJIfvDH2f7QNivaY24C1v3IMSA=
+			g7H3wyZvgr6zKTVRwmTsgRdSPgc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1022,7 +1010,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5lJIfvDH2f7QNivaY24C1v3IMSA=
+			g7H3wyZvgr6zKTVRwmTsgRdSPgc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1031,7 +1019,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aTt+26dsWZeYDS+XJp91dJW6XPs=
+			LWixrCJVKdPlCpraJ+hCrsoxUL8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1040,7 +1028,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6j8AZkLqElUzbBSleBGbbzJVv3o=
+			hLhbGCWuvac3Huh2WrgG2f3Rx9I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1049,7 +1037,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6j8AZkLqElUzbBSleBGbbzJVv3o=
+			hLhbGCWuvac3Huh2WrgG2f3Rx9I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1058,7 +1046,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QshaVMsla0C4pBe5s1r3/je8G6U=
+			e9Odyw4yeJuUXkPEOZwzbfw/wdQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1067,7 +1055,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gxOrQTrBzVCR0KLf/2DjcghR/38=
+			pqjR1GDUfwQFzEeXj/yO/ZRYwqk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1076,7 +1064,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8OFgRokj2aQkz5PAVj6yhWCkrb0=
+			RQW2GzFcvQ1YqRU72Awdettf0JM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1085,7 +1073,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8zYc83A9d6OqMODdRjv+FTOB3qM=
+			kdGi1iPaNHEBf6PakVpcSE+rShg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1094,7 +1082,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EkVuUv6RtviRuGZAFmgCZQXC4Hc=
+			LaVA0rj4543s/t7ljMxoXMWp++0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1103,7 +1091,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y4gd7MUWlUxVrC0S4jxqZw5Qhuo=
+			YSgryl0lcngMyGfSrdc8R9uV5FY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1112,35 +1100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3TKcyay/Qz4LthmS3cN81pR2yeY=
+			J2v2qN35xYEwCx7v5AJ47ySCOro=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_32pt.png</key>
-		<data>
-		bFfwK83wBj2pyvoGrW0gsjjayaw=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_32pt@2x.png</key>
-		<data>
-		hQkZK9WIJ30yrzBkesaTSfM5C1k=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_32pt@3x.png</key>
-		<data>
-		FCUpCQIg8t8Kle0t7ba+v99x9x8=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_night_32pt.png</key>
-		<data>
-		//Qx3mc4+ewO3CjLc2Y1//23DEY=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_night_32pt@2x.png</key>
-		<data>
-		KrTZRKDI7Kduyxjzb3s8GUaEn68=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_night_32pt@3x.png</key>
-		<data>
-		jAhA6BSLXPLryZQnXa1GUxjVKi4=
-		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle.png</key>
 		<data>
 		FczO+2H9ZOJL3KtoFkr7ZEbUEo0=
@@ -1173,66 +1137,6 @@
 		<data>
 		P08jpJQZdro2N5VhzgQnu+jsSZk=
 		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_border_waypoint_alert_32pt.png</key>
-		<data>
-		b4HAoXXQ9MHUkvo2sAUYv1olAFk=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_border_waypoint_alert_32pt@2x.png</key>
-		<data>
-		aRQYYYNELohm737W3DQtx10B1Sw=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_border_waypoint_alert_32pt@3x.png</key>
-		<data>
-		cuJK6gmSOjEhVI30xIeEIONVSTQ=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_32pt.png</key>
-		<data>
-		jNNswlCF0SH6V+5se0OWriTR7uQ=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_32pt@2x.png</key>
-		<data>
-		lUI1aCanVG7Yzr2hHEiHEha2VNQ=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_32pt@3x.png</key>
-		<data>
-		JWzMUhmhmba6Wxo9dCHPf5IQb8s=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_night_32pt.png</key>
-		<data>
-		8O78ScAfBRbkyJp9FhiadAejM50=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_night_32pt@2x.png</key>
-		<data>
-		ZHFlVPKPc/Zwb3ySc9nBC689uOU=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_night_32pt@3x.png</key>
-		<data>
-		B+VEFeaeFm2C6uIBDXzUldmMLZM=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_32pt.png</key>
-		<data>
-		KhSMRxKx1AkoUpWWV+VBZqgpDsw=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_32pt@2x.png</key>
-		<data>
-		nwdneM0KoilU07pSKqKyw4UeWxI=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_32pt@3x.png</key>
-		<data>
-		GIkw+XPhxJ6mPgnW6nZLmostL4s=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_night_32pt.png</key>
-		<data>
-		yxcShW6PUH4L7SvAnPK6znnipCk=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_night_32pt@2x.png</key>
-		<data>
-		YEJpYFlKpPtva6iPBIofJQGmrF8=
-		</data>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_night_32pt@3x.png</key>
-		<data>
-		mpZTRyQo0MeDf8tFP5XVApaPBB0=
-		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off.png</key>
 		<data>
 		xh3gGmRY86tJc5Lh3Nd6zBYqSbs=
@@ -1261,7 +1165,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Id2d1TYMOC3GPpiy92XGj//yFgI=
+			Niu5v5vp/ydVm2RWKiwv9Gql6lA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1270,7 +1174,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D4rPH9dJz1fTBQeKsIB6AYKE2oo=
+			VQnxoaZ/5WsHoRXbp4dFWqQ8Xrk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1279,16 +1183,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ak1jUzKd12Du7Cn/KaVBeSviYI4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ka.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LNvs+CzgutdzKwN0XZXq9t5F30k=
+			Dh6qYTdctTdhIPpNl3BIyIRVY/Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1297,7 +1192,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vFpe6HKmx3Wty7ZISQtlzkcxpAc=
+			U9vnWW0wi7bgDn56eTyXgqrTxsI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1306,7 +1201,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0tSKlBt3yuxrW05GsNzqdnrT+h0=
+			sGoubAo2bhvHiNiFhbQygrWSZkA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1315,7 +1210,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RCKBIodaq/BPm8R2wxxZI+BN2sc=
+			npcEisOakdV+nNfiX1jbe/4Hr0Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1324,16 +1219,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DWV28d5M08cuv9DtzUysDXFbO+A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/my.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MYlyD/zOjrnV2n2U91CPt24WJ0E=
+			tLFNGwx0wEGXDJVNAbMXnxyuulc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1342,7 +1228,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wQ4U/Q+p5/zoTHZwv8VBf3uhAk0=
+			VESeOGduw0hTEjAeWCm+J/Prmdo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1351,7 +1237,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O5DfgysQJzzCd7j2eGrgqbwT+hk=
+			jc7ZunVeR/4RHErYmTit+mjTprE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1360,7 +1246,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pruyhhc1rJKou3MKILqUZ4Lrc70=
+			SFZWWDPASYfUi45X6DeS7PySzFc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1377,7 +1263,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fLIf4JvrU9JH3q7AGeGEUnwBnmo=
+			yM9V+G8sJBkP7CxlWmTw/UgPvOI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1386,7 +1272,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fLIf4JvrU9JH3q7AGeGEUnwBnmo=
+			yM9V+G8sJBkP7CxlWmTw/UgPvOI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1395,7 +1281,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nmztYu9MrcyhylrohbORXSff/NY=
+			M2ZInT2AsJpzl9eyUKRlt1n+LJY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1404,7 +1290,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FvbEHa5MMK/3afAYEmgy33H+mRM=
+			XQpQGECwIYB7TjE2ZN2keVTt/rM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1449,7 +1335,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZQxxbOa9SqerIFcZxVCb7hwnVPc=
+			74taD/JNCTPGwDXzSS9r+5P6EHY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1458,25 +1344,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nSlgSiTUs/Q8ntegpWOmKpS6OkI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sq.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k5p4vwv3FB0n44izHXvxmLEu6hc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sr.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rF14tC1rzneYivKZXDGt+aRKOkQ=
+			pcQvJ35bBU+s+kakq1j1RuackJ8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1485,16 +1353,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sJHCPhWQxAWGu4lVlTzB+DoIegc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sw.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3OrZzSbV0A8W1luKhYLPVH7i9ZQ=
+			w1OralfV0uMRT2242tZ5EtdnNvk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1503,7 +1362,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NhXIJxUR+Rn3xqHWJfwZSswdydk=
+			fpg4Q7ApeJxAeiUxY1t95dzZ9JE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1512,7 +1371,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Un2Wg0+U5Up8KdhDqnHZOZA0W0M=
+			/XOBgZJXJadbZ5NSNNTKGHKLygQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1521,7 +1380,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xVreJku1CfVa61YyrPDj4xCzYAo=
+			QcI+9+947u3sXbybygTW+QeKjH0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1530,7 +1389,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9e+3O4rjHEfIQylawQkOstDGWFE=
+			PDkw641YDXLXBsN1yO0t6hu4v4Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1539,7 +1398,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mkxZfPLm1uPPz6PPyn9RctnE+0Y=
+			XouCTv9ijx/iSO+6JMVqTyiwGjI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1548,7 +1407,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0W3/Rg1FHTleO/XRiX2MgMmLgW0=
+			B5hmRIIQdFBQk1NOj9gPTvaQQ7U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1557,14 +1416,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4KI0ZC3ZrAiaNpBlwgjmB9NaZnY=
+			JYdjp6Mh66JGXBIJfv2AxUAISAk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>GoogleMaps.bundle/Info.plist</key>
 		<data>
-		EqUhHomm7NWl2usULOSqsTVFFBA=
+		XXevEws8Lov5vebVXE4r3QtkaaQ=
 		</data>
 		<key>GoogleMaps.bundle/bubble_left.png</key>
 		<data>
@@ -1616,7 +1475,7 @@
 		</data>
 		<key>GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
 		<data>
-		U5H6ay6ylwt2MsdCGcH6n2ntkJs=
+		uqt+JE6rp1zUCXT6+BnaARrU8gs=
 		</data>
 		<key>Headers/BeaconSimulator.h</key>
 		<data>
@@ -1625,6 +1484,10 @@
 		<key>Headers/IDCalloutsProtocol.h</key>
 		<data>
 		35cCEQvrEvuhHwhr9V2BatQPWEs=
+		</data>
+		<key>Headers/IDCampaign.h</key>
+		<data>
+		FZ/gshEahvQ4HKrKMjTyPqQkuh4=
 		</data>
 		<key>Headers/IDCampusSegment.h</key>
 		<data>
@@ -1648,7 +1511,7 @@
 		</data>
 		<key>Headers/IDDualMapViewController.h</key>
 		<data>
-		KO8WWUA0eCECkA3nNB/LGf4phMc=
+		ojV+9kb2Qfw5QG4EI6mnAumS+JY=
 		</data>
 		<key>Headers/IDDualMapViewControllerDelegate.h</key>
 		<data>
@@ -1660,7 +1523,7 @@
 		</data>
 		<key>Headers/IDFriend.h</key>
 		<data>
-		D8HQm9e1uakvHQUb45x+TMmmfVE=
+		1IlDo53oeCDiH0VU8UsgXJcDq4M=
 		</data>
 		<key>Headers/IDFriendManager.h</key>
 		<data>
@@ -1684,7 +1547,7 @@
 		</data>
 		<key>Headers/IDKit.h</key>
 		<data>
-		jAdP7/VNac2a9y1OWufDg5THBlo=
+		x65jnI7ehreEkFstOmLT1wBixSA=
 		</data>
 		<key>Headers/IDLabel.h</key>
 		<data>
@@ -1720,7 +1583,7 @@
 		</data>
 		<key>Headers/IDNavigation.h</key>
 		<data>
-		X3WB39O1hXIon6rpHbQoLr1uG2g=
+		Mk9AxUubgxS6j0/LmPoMoEIGIdk=
 		</data>
 		<key>Headers/IDNavigationDelegate.h</key>
 		<data>
@@ -1728,7 +1591,7 @@
 		</data>
 		<key>Headers/IDNavigationType.h</key>
 		<data>
-		XsLEBGXi54GsEWSI5tWnL7nAggQ=
+		oz+m4BC3i/xcN3tyAJX9FdB1A4I=
 		</data>
 		<key>Headers/IDParking.h</key>
 		<data>
@@ -1814,10 +1677,6 @@
 		<data>
 		GknWBKSrl+g/p5sNG/7wNvckB84=
 		</data>
-		<key>IndoorKit.bundle/CacheLocations.plist</key>
-		<data>
-		Lb39DnsemyNczyJ0MQI1J/cJ5TM=
-		</data>
 		<key>IndoorKit.bundle/Fonts/Arial Black.ttf</key>
 		<data>
 		XMAR53wfKYCLKFPhOaFSj9cjbak=
@@ -1846,13 +1705,673 @@
 		<data>
 		sNNs9aL750aj3Sd7/8Z1aoIIB6c=
 		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
+		<data>
+		9hItE7cam7cFT3BaDO2jRaVl++k=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.mom</key>
+		<data>
+		jWW7ZPqoHp9r/VkV5TAS6QweOT0=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.mom</key>
+		<data>
+		17TWMdNkUn9Y1kf0T1a87tsOwMw=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
+		<data>
+		alf+JQ9qfbrBJzB/qvhfk8ggb2I=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
+		<data>
+		q7vOrPJjfexG7cNkjSgBjLDhSDE=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
+		<data>
+		IM7pUc3dgbBfKBC7eTUgbJOheGI=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-1x.png</key>
+		<data>
+		KBiuGmPvZm6y3heWHurqjBMitJw=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-2x.png</key>
+		<data>
+		/ZC7kLA33LLUaGoy4elYV+v1Pss=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-3x.png</key>
+		<data>
+		UPqwKRHKhiKSYvXhNjoHx17Nuzw=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-1x.png</key>
+		<data>
+		mfB/MyxUmXFg9Vpp/U5VsQY7S1g=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-2x.png</key>
+		<data>
+		jjx4hEkp/WAC6uAe/KXdwGjm6CI=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-3x.png</key>
+		<data>
+		71kfAzHiEMvBEzOv7EHvlQHjfuA=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
+		<data>
+		GtYxa3Gkexj4FjCDWBF6FLifLkw=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-2x.png</key>
+		<data>
+		vzxhcyUyL5CsMUYrWSu1GxbngRA=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-3x.png</key>
+		<data>
+		E+hNC46dAe/+GJ4ZgsXw+TUjOn4=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
+		<data>
+		IGc9zdYC1nH4aiQ0RY/JuqBn+EE=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
+		<data>
+		QKmhT0236O/x77A3aFViLI3U0RA=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ar.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DYEkXifrnyd5R0ofiWfPKDrnKwI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_background.png</key>
+		<data>
+		58HUtPew0VfX28iT0hoZoqqV8R0=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_background@2x.png</key>
+		<data>
+		6gBjAkHF3kLwzqmfNBlRZY9e/kA=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_background@3x.png</key>
+		<data>
+		wI+5cU+Y/voatJ+IHCVJWAv6jQQ=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass.png</key>
+		<data>
+		DSedvNbNTixsQO+c0IlL1PkNCdY=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass@2x.png</key>
+		<data>
+		euWXSDkE7B75wvPAU1ssfZA9NaM=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass_night.png</key>
+		<data>
+		d+Mu/JBZVfGIW30YjWEaWiC/sMA=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass_night@2x.png</key>
+		<data>
+		lE3Jc6hIhQEfpuGBhw6EKFWV+Q8=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_my_location.png</key>
+		<data>
+		1h5giTFrQI++3fVXazIMR/7gzoY=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_my_location@2x.png</key>
+		<data>
+		xT8ttVKmlQQ7RypGMAzTOIjuhLs=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ca.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ImDk4CYgJ4IgRMw+UrPXH5pXKKo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/cs.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A37EFI2mlKh/O+1ebzJVmQH6M0E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/da.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+HRGk06ODHRw9CiruJkP9e85akk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/dav_one_way_16_256.png</key>
+		<data>
+		6ZZOqO9aCr59xWXdfdxHYMMTkEM=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/de.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N7DWdqmeo7RFTG52YEg8RFbRCnY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/el.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pnyeYAQfgaWJa1r16/HDVQ42ZAs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			amAY+KhCde3J9NNQ0RQpUwpI8AY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en_AU.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g7H3wyZvgr6zKTVRwmTsgRdSPgc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en_GB.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g7H3wyZvgr6zKTVRwmTsgRdSPgc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en_IN.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g7H3wyZvgr6zKTVRwmTsgRdSPgc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/es.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LWixrCJVKdPlCpraJ+hCrsoxUL8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/es_419.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hLhbGCWuvac3Huh2WrgG2f3Rx9I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/es_MX.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hLhbGCWuvac3Huh2WrgG2f3Rx9I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/fi.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e9Odyw4yeJuUXkPEOZwzbfw/wdQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/fr.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pqjR1GDUfwQFzEeXj/yO/ZRYwqk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/fr_CA.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RQW2GzFcvQ1YqRU72Awdettf0JM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kdGi1iPaNHEBf6PakVpcSE+rShg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/hi.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LaVA0rj4543s/t7ljMxoXMWp++0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/hr.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YSgryl0lcngMyGfSrdc8R9uV5FY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/hu.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J2v2qN35xYEwCx7v5AJ47ySCOro=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle.png</key>
+		<data>
+		FczO+2H9ZOJL3KtoFkr7ZEbUEo0=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle@2x.png</key>
+		<data>
+		ik1Nng6iqN/+ruu7baKmTu3Cy/M=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_32pt.png</key>
+		<data>
+		IgSXn2hc/27HC0evGvhDhTXKIE4=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_32pt@2x.png</key>
+		<data>
+		byDfU2A4NkxQbzsuboUTK7iuvnI=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_32pt@3x.png</key>
+		<data>
+		tHnPy6KqF69QBs6+b1B9h0FqGRU=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large.png</key>
+		<data>
+		/WPXm9lH4rlc3x4vdnr7k2RHkEg=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@2x.png</key>
+		<data>
+		zbZAM7mPNNvouB2QcXsTxOCJtxQ=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@3x.png</key>
+		<data>
+		P08jpJQZdro2N5VhzgQnu+jsSZk=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off.png</key>
+		<data>
+		xh3gGmRY86tJc5Lh3Nd6zBYqSbs=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@2x.png</key>
+		<data>
+		NTF65BOR+sJY4SRV1e2mgkz9kmc=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@3x.png</key>
+		<data>
+		rQpisYk5GDcvEAM1KX1zN7Tk0UE=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation.png</key>
+		<data>
+		v210WlF/V/X0MFX7rrbTkt6/gKg=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation@2x.png</key>
+		<data>
+		+WqWJySO0WVHmdN9btErTRncON0=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation@3x.png</key>
+		<data>
+		Nda7w6LKUWLwuNgEGSa3UV+Gu4c=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/id.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Niu5v5vp/ydVm2RWKiwv9Gql6lA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/it.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VQnxoaZ/5WsHoRXbp4dFWqQ8Xrk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Dh6qYTdctTdhIPpNl3BIyIRVY/Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ko.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U9vnWW0wi7bgDn56eTyXgqrTxsI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/lt.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sGoubAo2bhvHiNiFhbQygrWSZkA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/lv.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			npcEisOakdV+nNfiX1jbe/4Hr0Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ms.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tLFNGwx0wEGXDJVNAbMXnxyuulc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/nb.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VESeOGduw0hTEjAeWCm+J/Prmdo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/nl.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jc7ZunVeR/4RHErYmTit+mjTprE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pl.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SFZWWDPASYfUi45X6DeS7PySzFc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/polyline_colors_texture.png</key>
+		<data>
+		z1kf4/sWpoPOzvXlf8K5f337H7o=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/polyline_colors_texture_dim.png</key>
+		<data>
+		YoDHbGi2Kzr6KzaLWpIC+iHNW24=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pt.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yM9V+G8sJBkP7CxlWmTw/UgPvOI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pt_BR.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yM9V+G8sJBkP7CxlWmTw/UgPvOI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pt_PT.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M2ZInT2AsJpzl9eyUKRlt1n+LJY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ro.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XQpQGECwIYB7TjE2ZN2keVTt/rM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_1-1.png</key>
+		<data>
+		HG4lAzW99jq1X860ruCadRTP1JI=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_128-32.png</key>
+		<data>
+		Y9Cc3P9fnqQlvUq6hljpmps6Rfg=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_16-4.png</key>
+		<data>
+		RnyN/LbKvVpEJtWMNkWwn1v0jnY=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_2-1.png</key>
+		<data>
+		liaTlaCHAiLcpdhS15/FoNQuex8=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_256-64.png</key>
+		<data>
+		TgH7/QavDGQI/skL1YE/6rzYH6I=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_32-8.png</key>
+		<data>
+		5lTmhJEnxGk7JCSt1o7hQvsaZE0=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_4-1.png</key>
+		<data>
+		RMtreAjsSE5oStFTdN9QLiWrM14=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_64-16.png</key>
+		<data>
+		solZa4fFXHU4p61KSegryhqGfMM=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_8-2.png</key>
+		<data>
+		IGEsKFv6icS08/TMkp+MormykLo=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ru.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			74taD/JNCTPGwDXzSS9r+5P6EHY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/sk.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pcQvJ35bBU+s+kakq1j1RuackJ8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/sv.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w1OralfV0uMRT2242tZ5EtdnNvk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/th.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fpg4Q7ApeJxAeiUxY1t95dzZ9JE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/tr.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/XOBgZJXJadbZ5NSNNTKGHKLygQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QcI+9+947u3sXbybygTW+QeKjH0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/vi.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PDkw641YDXLXBsN1yO0t6hu4v4Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/zh_CN.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XouCTv9ijx/iSO+6JMVqTyiwGjI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/zh_HK.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B5hmRIIQdFBQk1NOj9gPTvaQQ7U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/zh_TW.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JYdjp6Mh66JGXBIJfv2AxUAISAk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/Info.plist</key>
+		<data>
+		XXevEws8Lov5vebVXE4r3QtkaaQ=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_left.png</key>
+		<data>
+		wEgufayRRGE/XJ0qEoTBxkKrlHk=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_left@2x.png</key>
+		<data>
+		Nk+SqgFNjGYaDU/37+ZTq+lPIrk=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_left@3x.png</key>
+		<data>
+		PeAkYTqZ90NC+h3Mi5El7hzRBgw=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_right.png</key>
+		<data>
+		y8j2sPykvEUgCCWbqkMQajBUA70=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_right@2x.png</key>
+		<data>
+		szkKZfIOIr+5aD8GPzuDEHHmsBY=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_right@3x.png</key>
+		<data>
+		YSf405gjD1uaF7YDsam6q4yvNso=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/default_marker.png</key>
+		<data>
+		ppuMWsDz33zJ4WQEf/T44wDUbH4=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/default_marker@2x.png</key>
+		<data>
+		16rmol/KiLxPFBpJ2CXEt6iN1tY=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/default_marker@3x.png</key>
+		<data>
+		qsYrYr4gBke8SZua6qJO3PzmRHM=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/ic_error.png</key>
+		<data>
+		0CVIeN+d0Z/e6FHcEzk0GpRz9KM=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/ic_error@2x.png</key>
+		<data>
+		BYvkcO3ien1dBURGTX7/iQ61684=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/ic_error@3x.png</key>
+		<data>
+		4z+GVXIKMXonei9wATmOpaG2Yp0=
+		</data>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
+		<data>
+		uqt+JE6rp1zUCXT6+BnaARrU8gs=
+		</data>
 		<key>IndoorKit.bundle/IDInstructionsViewController.nib</key>
 		<data>
 		fdcgQX8xu43wr6igzcoK/EUy98U=
 		</data>
 		<key>IndoorKit.bundle/IDMapViewController.nib</key>
 		<data>
-		GBbXLoutnqUFbxL/P3z27GJU1/4=
+		nU4WvyivfHvRjdb6lszkndE93wQ=
 		</data>
 		<key>IndoorKit.bundle/Images/Instruction/continue_to_destination.png</key>
 		<data>
@@ -1916,7 +2435,7 @@
 		</data>
 		<key>IndoorKit.bundle/Images/Instruction/type_5.png</key>
 		<data>
-		oaRPROPlIa2ERN7q5iTc1LAKlhU=
+		UMcSeVdMa5f+QbkFMfMzXogf7lU=
 		</data>
 		<key>IndoorKit.bundle/Images/Instruction/type_6.png</key>
 		<data>
@@ -2004,7 +2523,7 @@
 		</data>
 		<key>IndoorKit.bundle/Images/MapIcons/destination_point.png</key>
 		<data>
-		C78DUPCctpK04mSaN3l1stC97cw=
+		xRqUerSSV9tqG3eWHgpy0FPnKcw=
 		</data>
 		<key>IndoorKit.bundle/Images/MapIcons/destination_point_old.png</key>
 		<data>
@@ -2180,7 +2699,7 @@
 		</data>
 		<key>IndoorKit.bundle/Images/MapIcons/origin_point.png</key>
 		<data>
-		ADk7a/02w0Fe7CIS6godIFSYYmI=
+		N+pC+DJDpCoh5NxQ1gdr3aEfmaY=
 		</data>
 		<key>IndoorKit.bundle/Images/MapIcons/origin_point_old.png</key>
 		<data>
@@ -2372,35 +2891,19 @@
 		</data>
 		<key>IndoorKit.bundle/IndoorMapViewController.nib</key>
 		<data>
-		rNR2O+Wv/dnVwpzY9nZw5yhwPSQ=
+		KzpVY8SDfcUcqaXQ6TR6C0h4XyA=
 		</data>
 		<key>IndoorKit.bundle/Info.plist</key>
 		<data>
-		u1Q9qiAxfnFmXbhuWOXcIsfsO8s=
+		bOzPxKGcSkWti0bYCf+2iFBroqU=
 		</data>
 		<key>IndoorKit.bundle/OutdoorMapViewController.nib</key>
 		<data>
 		CKvR4h577aLYjr24HKdxt07PT34=
 		</data>
-		<key>IndoorKit.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		3C2zAlKm7Sn2gFjT5kKMs0/4Z10=
-		</data>
-		<key>IndoorKit.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>IndoorKit.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		NDjGBoTOXD7g4RmfUBCn/pVOHaw=
-		</data>
 		<key>IndoorKit.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		NqoZliLCqhS1mdoR4zJZOUhiuyU=
-		</data>
-		<key>IndoorKit.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		7bRn+CANmazv04hqKBCtHZtUYA8=
 		</data>
 		<key>IndoorKit.bundle/instructionsPlist/instructions-en.plist</key>
 		<data>
@@ -2732,7 +3235,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pqL3uVL6r+S61QYysuEThZwi7UA=
+		hYyEwgFX+YT9ourBdeDawFb81nc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2745,14 +3248,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0QpNpe9RitDCvk15ZMVLbvynOsv0cLi+J5wtW1MrCeU=
+			JyfV1uAoHHwubN0UBizx7YfQvvi32Fy2HRza3AyDih8=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5PTgcqepZ1rdGyki171o44KFmOUkWg90I84vb7VeKE0=
+			iLLuGPkEJx91Z9FAY2ur2kzJi9wGr/mirhf5zsb0xEQ=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
@@ -2780,14 +3283,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mh7YmcoSuK08QjJkY0mIo8EWXt94bMRF8Xeoy/jj5nI=
+			SdCHFcwUWcOn+6S2pVcKPWo5J1cOtjjALFOZ8D4dur0=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q71LttqwWNTt/08bqpiEtUTyeqFq3OO4G0Zs/Xu0EcM=
+			4a8J/cctw/g+RkZ5P2BT07TGzV7VDfVIzC7CFQmEhMg=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
@@ -2843,14 +3346,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Inva59JyucNoxpxf5VhXjrbIK7KDZUr7zw2eGe0yas=
+			CBXORozcDfIG1kolJ6u+tuWOIt1qXNsxf3XNFQwGcu0=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/GMSShadersSim.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DsTWYeWCkCe6BKkxQIxOwwmBmAKtsb+SmndOjJh5kxs=
+			vCGlRS+4MbUb7zzFx/wj+QN5Cvg1C0u8QKLsBYP22Nc=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
@@ -2878,7 +3381,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QDglXd4GcO1yKbvqC0V5V9Sn/c6tEM2CLIBkIPuJ8Is=
+			JG+GPcyUNFLGaGSce4ZMrBqaFbDpUvXd3cs5FDdTMGw=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
@@ -3115,7 +3618,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b53o9kQV4v0Fi7QrM96aCO0VC2+64dmsuGOxJBcW8Qw=
+			Hb4WiCKXTJ8onzEH6GvjQtrVisDYSR1A2C8CJqH0z24=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3468,7 +3971,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lhCLxiYfmP3IyTSA4DA/srdffj8SZNGQlu3iq5miA2g=
+			+4Uo+TBpnpWN5a1SmEcpXIGEvydLWnCYwJd9GbHc/m0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3725,7 +4228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O1NR9hTxkTK9mVSunrn3v+6dX3h7EY5RMP0bu9KJq+k=
+			Jj90DLacWkhk6bq/x7jHR5M0kyxm/3hFa8mQWMKOX6g=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle/bubble_left.png</key>
@@ -3816,49 +4319,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i1XAfpywNEOdOwftrHDJS/WzypEvKozk2yGorSkLtzA=
+			4NEfWIMETFd+ykNEcy7FuCpm8sbBvp/v1Znta+pSp2o=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMapsBase.framework/GoogleMapsBase</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5lurU1xnTIDmpOZ4UhWt1bSHWrv8nQR3Fz1sSjzCeZ4=
+			7rLwzjs5EtkYtYP+HRIsQbh0bPPtXvwtHT0ORq9Cq/o=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMapsCore.framework/GoogleMapsCore</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XgtZONcfPdDxJdujFX9U2eFp+Q4VihtKayja4q5p63A=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5PTgcqepZ1rdGyki171o44KFmOUkWg90I84vb7VeKE0=
+			yf4MCAR38xpd3huksaH5+Ko5eXi1DQemHx03rPRoKDw=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m6UB9yBE79NM2Uytoaz0LrphkQFxaGwaYyTmXLnC0kw=
+			Np5Bh+9mTI8EVqWgOTONcM+8Y2GfDuNhDSJEjzxco08=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZpjTVlc8YgkmgA/B1oCpEWHga64qTFNjshPVYyvb+G4=
+			icA79MOijJ/H+XeHYteTTtyh96FuVc4TzAcktSEUuAI=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o9RaPUoc9B/2Zn29X3dmrPUST5JZPbYq3q+u0jkl7EY=
+			bA+BlUihtYmpYqrcE4PfYHzToxW/m0Rdi7/5N1B36Oo=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
@@ -3872,7 +4368,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q71LttqwWNTt/08bqpiEtUTyeqFq3OO4G0Zs/Xu0EcM=
+			A5DpUSyCwxuxa83gCSRBebbLTwVy73aRe+4mtvOSuuA=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
@@ -3924,46 +4420,32 @@
 			0SyDaAgdNWt5XirK8fh9r/KPbbBqlWeaa1+p4aMYRvw=
 			</data>
 		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSShaders.metallib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1Inva59JyucNoxpxf5VhXjrbIK7KDZUr7zw2eGe0yas=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSShadersSim.metallib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DsTWYeWCkCe6BKkxQIxOwwmBmAKtsb+SmndOjJh5kxs=
-			</data>
-		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			reMA3HPo0ZkLCelsd0yLOeO/Cq8A543Gc5rDKt348Rg=
+			u3DlUuYnLFRbgu4Nq9Q8VYS0fIgroJxxlUKeMj7X5lY=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GaMGqwoZ17o4/oQ+E5o3mcf4nZdU+fY2c6zouc+aHQw=
+			G+0ewe5QKarAWLzizBf4e8OKcjEaZxW4E8rONWC1VUU=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sg1gtlyHg36nwhRj66w/5buuQmGAtaveap9wGP1kQ98=
+			msipWdoFeh3/PtFNFFPl6OjQAVv2QtfB+41X/oZLLXI=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QDglXd4GcO1yKbvqC0V5V9Sn/c6tEM2CLIBkIPuJ8Is=
+			MH0UxrDKi/l5j5zIXB6oMJX30E9p3zO6xa0cxqGr/Fk=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
@@ -3977,7 +4459,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DiOX80dqLJHNOFs8pK7D0mrw5UC1SlY+YVruxgh51u4=
+			ojbiSWvpGeMtGBzqXrVBcCD+v2zKdjbKgUX31Ybcbwg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4049,7 +4531,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M+yc0vsi2SqZThuot28Ol92alz0wj+256BMkt2i5mKs=
+			VNtvUb0vGW2LmVd5vOhbZ+NZR3UZP8qXBuIqD3B/cPg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4058,7 +4540,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oUajzNZqfSA69lkv+CsikGfg64oxk1xqfdZ+kLtraJk=
+			ziWqcIxsPZj4PmESPJWj9uxtFDUDB91UFt7MUuq2ga8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4067,7 +4549,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0akfBfrtBwmJYhF6g/WlRnYJE+CfUj8SuRDor4qsfwg=
+			XemmY9APg1VJJ8vJOgDSYaQtCnzyGe+XyzmMgcsoLKw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4083,7 +4565,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DnRVfvU+UHFrNaIHAkx2603D8XNia2JPQ65WEYrT19I=
+			WC0opStrH7MrSTx7b0+duZHFAfyyDFljSN0vuIHkjgU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4092,7 +4574,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1OWW2r+TcI04GAzLLa7dKGBUCWYyguNu5uwT0YYLKOA=
+			H3W21YIUwQ3gbGAw1tds0IHPjPOAclp6WOl9cpwlGzg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4101,7 +4583,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fPpXDX73lW/RnZTi5eGVKOyMVlJ7aNEDXRbk9JbLlJ0=
+			C4Kg8s/+nFOMccA141Q2UCiSV9BDYOk5V4wVS0zq2+g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4110,7 +4592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3dInCJ6Vxw6N9uReExxeVg5ZETji151akMx7S7eVpzI=
+			4LpvyXcWqMBoszZjtoxFM3edMnhKDAaTnQb7ARuIJGE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4119,7 +4601,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3dInCJ6Vxw6N9uReExxeVg5ZETji151akMx7S7eVpzI=
+			4LpvyXcWqMBoszZjtoxFM3edMnhKDAaTnQb7ARuIJGE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4128,7 +4610,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3dInCJ6Vxw6N9uReExxeVg5ZETji151akMx7S7eVpzI=
+			4LpvyXcWqMBoszZjtoxFM3edMnhKDAaTnQb7ARuIJGE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4137,7 +4619,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bNEqmxtX/c6TwMSQgglT0qxaaubbOsKvp6wRJZ+bwXM=
+			Tfapj+3d8uanrtxVHLHygIEgO3NeO2zeQxEUMlh2FiY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4146,7 +4628,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CsEz4d4OQ3tyiePZw5djebxIUHOwxb3ylz7i+9+Bme4=
+			a3x8LdvKEzAq0Jw2NCVJTMid1UArQCgKAkqOsY3dOLY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4155,7 +4637,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CsEz4d4OQ3tyiePZw5djebxIUHOwxb3ylz7i+9+Bme4=
+			a3x8LdvKEzAq0Jw2NCVJTMid1UArQCgKAkqOsY3dOLY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4164,7 +4646,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1VGyN5Sd2ufWo8WeIMlDBRKy04yW8ilMgDuFeomMRT8=
+			erJ+hQAjKWLv1em1RTosP8UZ0ad1uX+d1rwZsCPd09M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4173,7 +4655,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yf5Ylm4f57mHp+5F5hrpG++KQjhdLhw+uEI0m5pigbg=
+			Y3rNLn6DdQxdiqV6YBNe0bnA9dXCuj1RJvTR16+slRU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4182,7 +4664,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HP9Xs4hGscjnhKPQ5HkIYVYpoQNjnDz1Kg6thffHWNE=
+			/vCcVSbKjxScicdnRE5Bsml0LOAVnaOSxNx7ArA49FA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4191,7 +4673,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R0mdqjWgHHVgSKu4xgu0z4U76Tiev9tHPyjO1Kf5WM0=
+			gMQhFqT7XpL3GnqQkCWz0T59T6bKNERLnB14+bx0z94=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4200,7 +4682,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b53o9kQV4v0Fi7QrM96aCO0VC2+64dmsuGOxJBcW8Qw=
+			fer5GhZGh0GkK5AuUAI8j4twZp98X97AHiM9ZpXdzWs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4209,7 +4691,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YOhL4Omy9LbQ178xmODPhZuGaE6d5QfkdYlhoiKN1c0=
+			hw8/COBaBzOVAQiyTRobOPbhg9fyqxO9GIFr+PBa5Wo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4218,52 +4700,10 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			51q+9WQFoOZ7mTbzQ5SbbBPVwUKi9upgAvK+mamOroI=
+			ux6VM9xYWaRkKSWcNslFM9dFzpJSvcL+Fo534FWMajw=
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_32pt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XB10YfoFMMA/1hJ7RcpPwRn4FPISn4/GfcLt1yacpbk=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_32pt@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6Zoc/OxM+MGLTiTWiXfGiG/vQbaZu+4BpYdjwEWmO+k=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_32pt@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			32rNSQbMm/k11a9saRft5TUhSAEwkY3nI3izgMIVsWc=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_night_32pt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tA6fq0SW033/kwgkIJ6B6sQ3DSvEwrztHLfbLzPMZJ8=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_night_32pt@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7w1goskgoHENDngEcZmMetZnbBY202XkAvwpkFUUGmc=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_closed_place_waypoint_alert_night_32pt@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9NGwfkNI8H2ANbn1RB4cLWXlA/Nj4yeB5459a6Vr9Sc=
-			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle.png</key>
 		<dict>
@@ -4321,111 +4761,6 @@
 			z9EXEDKpCzvyZ7kGENSEXZznpcbyINaD1V8HSi9sgSs=
 			</data>
 		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_border_waypoint_alert_32pt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yBxDOtAyeWqzpC63ugLpJhxYcAscliU1BgZnNdEcxmI=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_border_waypoint_alert_32pt@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0RtBxUvJfAOQCu0YN4P+NXKIgVGXshxUEVhfsd5RBek=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_border_waypoint_alert_32pt@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ccFj0dMmtprxMVMeVoKpD1/Kb4WJxACoK30HziyMr+E=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_32pt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kE33BkYF1sZUQlzcuqab1WvHw2bKowuYmlzrbJpShF8=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_32pt@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1VhiJ1I7+yEdNt0CQMVPQt3sqbXWCS4N+l+OU4f+Wik=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_32pt@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hl7Q3DhOytiS5PxACeNjtBEwRxXf7l8c3w6kbzMZtLY=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_night_32pt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jDxAgphhHwy2VvYUHX82RqRNnQDGP80tsgbIm4TM/Ik=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_night_32pt@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OflLl1p4nwACrp977dRsNpKM9fZyFj0Yckli+0LJ7kE=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_checkpoint_waypoint_alert_night_32pt@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OiZcsS9CGROol2GoyCRvbD/1OnnO5Cr9tMmymx+gJuE=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_32pt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OW3vSyC7N+/XTypt4QcbljeyrObk1gU5n9aHHmZk5oA=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_32pt@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4JsF2Fuy38x5T4fSQJsUzzGbcTca7TicSUHZ04JfcyE=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_32pt@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PfQ+g1OVrp2reKoxUY29V6sSev0XbPSVORza8Pa4s+4=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_night_32pt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HgTUWKNNKDODh4K+sGwW4Ydlmqb22QS0xe1R27RpXcY=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_night_32pt@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9i3bLmY8j1wPb8oYLkoXlfbtaxJSCwouObY+wUi4aUA=
-			</data>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_covid_medical_waypoint_alert_night_32pt@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RyZlVNbjaAqlDgKugE8FWdRwJhKx7ew7iQzSCsccclk=
-			</data>
-		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off.png</key>
 		<dict>
 			<key>hash2</key>
@@ -4472,7 +4807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WWuYhcGRPSEkS3jEe2ROs3IrNb25OFbcRQn2LuePONg=
+			+0xpgcVp3vaGTS7AZsx5R+LiYfhLmTzopeAMC4qCISY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4481,7 +4816,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rkCfvrRgS8xYZnlpwfzv1sXNTJokABiWUBd0xirTHLE=
+			/g0CxGxyXGZj/D1yEScvrsye/+zPaBsvtBZylCyap8w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4490,16 +4825,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KZNFQNC20A2RPP90HaN7azncoRp8QY1jPsH4epCAjdE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ka.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0AZlUe3I8Y9apquafluTQQuMl9rZQaABLCKi+iTsni4=
+			XfvYni87krsi3TIBDWwXuMCOu0AZjfugfON3lKXSKMA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4508,7 +4834,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p0cQEikCmDDs8hdnPxIq24zJhIi+27Cd81errvm+3FI=
+			Kx8JGIIo/SZZMai4n4a7a+GYs89dwpR9QvhEj8wuBFM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4517,7 +4843,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JXukFf88Wdzwa5tcV9HraZsGfM/F/70ZM1kltn6ihUU=
+			Bqb3MVX66qZ5A9Udj+C3lPgbHMs4Nsiuy04JdnbOAmY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4526,7 +4852,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UGS+ER4ARYA7fjUPNlaOVKTsV0sTtmPSqnimetvKkWM=
+			QmnV3JS35vCG7sx2w7lXG0+gBqND82TKuDXv9E4OEKI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4535,16 +4861,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R4DZjtyNufPl2/2KaI7QurSbK02iITj1Rt/8UiEXGqM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/my.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vqFe1I+ykIJ6doyGy3Yuw0wrLvQoV3vNbO4YRXktYEA=
+			v8TfC4KdUOKB6uLkEikgnhWGov6LMky2sg9gzgN5eZw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4553,7 +4870,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lhCLxiYfmP3IyTSA4DA/srdffj8SZNGQlu3iq5miA2g=
+			qfqRyBV10RdCivF1WdJySJzcrKjTD+aCra8py8zxRig=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4562,7 +4879,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xOM7UCAMDBnqYRGp7f+gdgw/C8gRFChnyoIXN6JLczc=
+			LodzOqZc692AERdHFw7Daj3oYYCx/D3fr6oaNUrWwvM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4571,7 +4888,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CGCb9/AxCbiU3Cl38M8SKof+EVcE3ocGs0gw5tKewUo=
+			0kUR0QNWehA1zPDoxUeQWSB+EUFUtkm7aj0efP5wQiM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4594,7 +4911,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ow721PuesGjAAoA8TA/11xralYhO3PlQYUK5+xrByfA=
+			YaYcN1w8hs8GHXMaD0L7sK1ZSoffy6+zAAPuhjtjYTM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4603,7 +4920,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ow721PuesGjAAoA8TA/11xralYhO3PlQYUK5+xrByfA=
+			YaYcN1w8hs8GHXMaD0L7sK1ZSoffy6+zAAPuhjtjYTM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4612,7 +4929,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k71LApZTJgdqcCCsIkJVYp3/UaN0UugujINtnjw1bAw=
+			iSDvniNLM0GCUoMPd5ttz858V3dx/unXF3hWBJ6m7fU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4621,7 +4938,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3nesSOIJHBcdn6fg4m4mrIFwUhp8yL1Pl0oi1m7YSyk=
+			cbxNjPgcOx3X6xVXFcZrIMZas+lQ2KIGtXqmaEehyGA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4693,7 +5010,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8F3iIfeZfkt3kc7zw4d4l5s9m2b9vFCn+p7G/68yjac=
+			FXnJQfKPLDxNsF23gCKdicdD9DOtT7ejNgD0aaBKKYs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4702,25 +5019,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			feymRx/Bi+chAP3Ey5Agr9Ft2cE7nqIhoQRcSalOf18=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sq.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xdPaO4Y0CzvRMTCC1q1H1VfThTHn2MaId+Q5GxGa3LA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sr.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xjWVk9Xxf4EPOS7zyMUmjLnnFVlTCeLpiM54ewmBeKQ=
+			izx5uZ9/DYYePSRiE6yvfzh7F0TpzPBecCYP0XLvFHk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4729,16 +5028,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ORDxXYkUdGJcnE9Tv+nQG5zZQINeEtjvjr1fTJITGw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sw.lproj/GMSCore.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jTgCu5jFsQzYN22/wifVsX/RArJeiIrn85W+yYfIYW8=
+			oOB3sM4qrHaQQsFsnSzhEasZ2nX1L/7WdNMn11cYY60=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4747,7 +5037,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RC/EzqptnmbJr3KK7eF7JYvn5YMqHCwoT6JVZuSHC6g=
+			53s225MYddDqMUjeJDwDBW2eDH/XMabr5mofvV1GyFI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4756,7 +5046,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k6qQBFkz41GpPIpKN8nbu0HCLy7uhiXBqPPKpgXMjNw=
+			mjRj/gY1mcahmprzfAO8y1lkz3DA8TzjXUSFvTTist8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4765,7 +5055,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2aiHx4UseFbXgwNRIMVD2sRio9L4fh13g8peWZiSKy4=
+			zgyJR53kUIuM4Tv15tBOl6/sXke4kcYiR2qpVBHESqU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4774,7 +5064,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XDRpaLGcAXpWlyiHwm48D8P53TDZavyuwZxOqf+NyNM=
+			mL6Qqalzre9jqG4+Cq/kgb4+QTot1v5kVA2vO5YjyYY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4783,7 +5073,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sgjNca8LpMcjMVVQDTUR0Yb/VgUcg6dw+ALrOMRvuO8=
+			XrQMTIupWv7RW21UP0o51bIju9oD3KdmM9Ss64bao2g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4792,7 +5082,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ieYiGeYETunrujyWGcmRClgFR/nkeEW6hpip167/vjY=
+			8JXuYBdQVFA0h/TwcfqMa5/KDSZhGOsXqCH7eWWYF78=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4801,7 +5091,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eymXX+mzJGCbSuahiQXvbJtVXL/5XjaV+T5s0lYYFLc=
+			SUgLr+UufxqsZOyoi4E4DO+5aWidf0RabTcyGeDho5k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4810,7 +5100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O1NR9hTxkTK9mVSunrn3v+6dX3h7EY5RMP0bu9KJq+k=
+			ei8uwsDxMRs1KtsvBALQQ5vmfigsRjsdlW+pcFkc3co=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/bubble_left.png</key>
@@ -4901,7 +5191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i1XAfpywNEOdOwftrHDJS/WzypEvKozk2yGorSkLtzA=
+			frKw9+N3pIKs5lrGN66xgALWCzHzfdudrVrGkiGunHI=
 			</data>
 		</dict>
 		<key>Headers/BeaconSimulator.h</key>
@@ -4916,6 +5206,13 @@
 			<key>hash2</key>
 			<data>
 			Ar9k09LEDWdzVb8CXT265+TyRgt3H+iisS2u1DI5rBY=
+			</data>
+		</dict>
+		<key>Headers/IDCampaign.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Uowm3pKQcygvOu9XTodD2kNRhlD6FG+xVb3vIAaHhyQ=
 			</data>
 		</dict>
 		<key>Headers/IDCampusSegment.h</key>
@@ -4957,7 +5254,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kO8Go0FbZMUCHrug9DZJpo8kyTWi3fUpy84qEsX2LCg=
+			gk8h/eXjdZupLi1Ocuhxtlw6Qa5veNP3eu7xCsw4pjA=
 			</data>
 		</dict>
 		<key>Headers/IDDualMapViewControllerDelegate.h</key>
@@ -4978,7 +5275,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s19hEgSuWqWe6XmKA39KiivtBJmF2ViCWD9i9dSkpag=
+			rkZb+UZpQqaoQ44KozX3yuMDElARRh30nspwwYLCrpA=
 			</data>
 		</dict>
 		<key>Headers/IDFriendManager.h</key>
@@ -5020,7 +5317,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Luc8q9B14z4qwWiQ9L1gDMRG7HFdEEcIHxWNNhVhlF4=
+			vGhoLlEMyePaVcBf0bQKtTfd0H5PslYVe8xZq9lR6gI=
 			</data>
 		</dict>
 		<key>Headers/IDLabel.h</key>
@@ -5083,7 +5380,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LSG4kT8gzIXncx4H6tg7sYCUyA/LfZgxcAuUPFwwCOc=
+			N3RTZglV76sNNhfkaHa9A2Lg7j2dob5w0armfNi695E=
 			</data>
 		</dict>
 		<key>Headers/IDNavigationDelegate.h</key>
@@ -5097,7 +5394,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDododXyY7pNkR/gzVTlP4GzUU73AYhO3qBXhv/QOSM=
+			WfmLULkbNW2lMSCaDRLJyZitvt41Ha5JYShHyWJ2ChI=
 			</data>
 		</dict>
 		<key>Headers/IDParking.h</key>
@@ -5247,13 +5544,6 @@
 			/utBG93JyrwlRUzHdp60bUbwn4f0OeUbZhv1ugqKyNk=
 			</data>
 		</dict>
-		<key>IndoorKit.bundle/CacheLocations.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MBQlfkK6Lhlg/Rm1HHcjWR5TeY3SplGrpXbnrUa0UGg=
-			</data>
-		</dict>
 		<key>IndoorKit.bundle/Fonts/Arial Black.ttf</key>
 		<dict>
 			<key>hash2</key>
@@ -5303,6 +5593,864 @@
 			NZQT52lp/IoD4Kz5GzVamLsTxCRyYU5Uv/XI5PSBf7s=
 			</data>
 		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Np5Bh+9mTI8EVqWgOTONcM+8Y2GfDuNhDSJEjzxco08=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			icA79MOijJ/H+XeHYteTTtyh96FuVc4TzAcktSEUuAI=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bA+BlUihtYmpYqrcE4PfYHzToxW/m0Rdi7/5N1B36Oo=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mh7YmcoSuK08QjJkY0mIo8EWXt94bMRF8Xeoy/jj5nI=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A5DpUSyCwxuxa83gCSRBebbLTwVy73aRe+4mtvOSuuA=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oRgIxXbtc2TA+CQC4IYwuDWJiwC79rQTLdnyhCHh0Pg=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-1x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6I9AZoWd/JQ8PV9b4FcAqf5GJT6iUEe7YeuyNGEkwfc=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			35EHfeztT/7K9NKjZJGCUlauQ2HOF3PBQxkLgM2OGUw=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yGhIyrKtKLoQ2oJfnH4RrIxHQUQYODC5SL+bLjiNbxo=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-1x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jRfU5I+eBrG4NBhLV9IBsXXb0DJ9cXoHbCE4CN0QiUc=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S3sLYbDleAUGAjWIVe8mvnmB6ONkTxlmkd9BPlylOWs=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0SyDaAgdNWt5XirK8fh9r/KPbbBqlWeaa1+p4aMYRvw=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u3DlUuYnLFRbgu4Nq9Q8VYS0fIgroJxxlUKeMj7X5lY=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G+0ewe5QKarAWLzizBf4e8OKcjEaZxW4E8rONWC1VUU=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			msipWdoFeh3/PtFNFFPl6OjQAVv2QtfB+41X/oZLLXI=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MH0UxrDKi/l5j5zIXB6oMJX30E9p3zO6xa0cxqGr/Fk=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4HMV9v4N9IH0373fJ215YuoHOKrnkWwgbsN63C7LlNc=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ar.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ojbiSWvpGeMtGBzqXrVBcCD+v2zKdjbKgUX31Ybcbwg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_background.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VUfuf1zHkFbUsHfs0W2XgKZU1+OccZ1EFTBKqUPRvpA=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_background@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L3cYb4rSz5yv0DjIESC1J3/cb8P0Js0Ff9mVn459XmA=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_background@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UJlmp7f16dQ1TqC/a0uyZ8RGy7o/exUVKOFU8OsbbFU=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fFQ2JJGO00f80s6uU4uleAHJ+R9BTG1nUEYfsfZY9Fo=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KsU6yUyahIrTFyLyw00wG+zkDkxGGocVZMhX46e19Gs=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass_night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZyxSDpdORHSyv61cmUzZqM8ndta0mAzjXNz1I0LMonI=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_compass_night@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CriYgwzkN/I/cVy1eJf4HI6kfJaC2PT7qk3sqSPG60g=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_my_location.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qHyHEkW8JdVyAqojiLMeEvdbdu29vAMj/80KkzOxCoI=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/button_my_location@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lit0EakIiwZVnj6fbN0D3wgszTkSE9/rnfzmpGBwUps=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ca.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VNtvUb0vGW2LmVd5vOhbZ+NZR3UZP8qXBuIqD3B/cPg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/cs.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ziWqcIxsPZj4PmESPJWj9uxtFDUDB91UFt7MUuq2ga8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/da.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XemmY9APg1VJJ8vJOgDSYaQtCnzyGe+XyzmMgcsoLKw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/dav_one_way_16_256.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7/vwjVbNju+XCu1xevYaVQ4/JUsqO/RCsRDlPNq7kaY=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/de.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WC0opStrH7MrSTx7b0+duZHFAfyyDFljSN0vuIHkjgU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/el.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H3W21YIUwQ3gbGAw1tds0IHPjPOAclp6WOl9cpwlGzg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C4Kg8s/+nFOMccA141Q2UCiSV9BDYOk5V4wVS0zq2+g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en_AU.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4LpvyXcWqMBoszZjtoxFM3edMnhKDAaTnQb7ARuIJGE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en_GB.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4LpvyXcWqMBoszZjtoxFM3edMnhKDAaTnQb7ARuIJGE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/en_IN.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4LpvyXcWqMBoszZjtoxFM3edMnhKDAaTnQb7ARuIJGE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/es.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tfapj+3d8uanrtxVHLHygIEgO3NeO2zeQxEUMlh2FiY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/es_419.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a3x8LdvKEzAq0Jw2NCVJTMid1UArQCgKAkqOsY3dOLY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/es_MX.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a3x8LdvKEzAq0Jw2NCVJTMid1UArQCgKAkqOsY3dOLY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/fi.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			erJ+hQAjKWLv1em1RTosP8UZ0ad1uX+d1rwZsCPd09M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/fr.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y3rNLn6DdQxdiqV6YBNe0bnA9dXCuj1RJvTR16+slRU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/fr_CA.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/vCcVSbKjxScicdnRE5Bsml0LOAVnaOSxNx7ArA49FA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gMQhFqT7XpL3GnqQkCWz0T59T6bKNERLnB14+bx0z94=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/hi.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fer5GhZGh0GkK5AuUAI8j4twZp98X97AHiM9ZpXdzWs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/hr.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hw8/COBaBzOVAQiyTRobOPbhg9fyqxO9GIFr+PBa5Wo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/hu.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ux6VM9xYWaRkKSWcNslFM9dFzpJSvcL+Fo534FWMajw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V2HcZbiTq9tAJFbLYxUnzbb0utxxO6kEVKiZsw0cr9c=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l7DXZC/yFWAiJnn1y7b8MOf2wCeJgHDmWYdKB5lMTS8=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_32pt.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1TKLueEVV6y48hWYWBESJz23RavEBopB2CMUaHlutSg=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_32pt@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HcFbnY64QuHwGzcNE6SaFXzwaKhtLHJf4uQ9wDMEgGA=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_32pt@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GaTms7wugZAVzLWzjmz62i/7XEjgP6usP/nU20AYYP4=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0TDx02zeOyLukli+xhvRlGoyfDPfmHWEXjHT3uzpDk8=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H8OXFdacv5KzG+qLR5RrChts7GKxClFlKqHyXNg/6qA=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z9EXEDKpCzvyZ7kGENSEXZznpcbyINaD1V8HSi9sgSs=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JtnHExDZopxjHDdkxKvEUTYb16WTqGyOKzA5Al5e17k=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yRv8itmfa+f7QkgZ03TsPrjc+YcMHHZz9Oxeuc5C+I4=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Kswz6NBndW1QRhKZxc87C8BWIjBoKm5mPxHp6tqgvug=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JtJ9rKoWknZ/eIujTeaSz/i9MKoY20wUUxxgY64wMz4=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6PWtTGpNSDY/JmLM2KVXntVhoQhJKZUP/moGRbY3NMU=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ILRnt9YuI4SFIzANE21lIdVzBhRC5hfsfl+AshH7LAg=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/id.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+0xpgcVp3vaGTS7AZsx5R+LiYfhLmTzopeAMC4qCISY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/it.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/g0CxGxyXGZj/D1yEScvrsye/+zPaBsvtBZylCyap8w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XfvYni87krsi3TIBDWwXuMCOu0AZjfugfON3lKXSKMA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ko.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Kx8JGIIo/SZZMai4n4a7a+GYs89dwpR9QvhEj8wuBFM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/lt.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Bqb3MVX66qZ5A9Udj+C3lPgbHMs4Nsiuy04JdnbOAmY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/lv.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QmnV3JS35vCG7sx2w7lXG0+gBqND82TKuDXv9E4OEKI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ms.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v8TfC4KdUOKB6uLkEikgnhWGov6LMky2sg9gzgN5eZw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/nb.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qfqRyBV10RdCivF1WdJySJzcrKjTD+aCra8py8zxRig=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/nl.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LodzOqZc692AERdHFw7Daj3oYYCx/D3fr6oaNUrWwvM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pl.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0kUR0QNWehA1zPDoxUeQWSB+EUFUtkm7aj0efP5wQiM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/polyline_colors_texture.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+dg+/X/HQz7XU5A0YjxVVb409jFOvCba/h/Dk0xwgJg=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/polyline_colors_texture_dim.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			utLkKWB1FOz3jZ0C25RC8IQUZKhnBiX4Zhqy+V9G1sM=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pt.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YaYcN1w8hs8GHXMaD0L7sK1ZSoffy6+zAAPuhjtjYTM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pt_BR.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YaYcN1w8hs8GHXMaD0L7sK1ZSoffy6+zAAPuhjtjYTM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/pt_PT.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iSDvniNLM0GCUoMPd5ttz858V3dx/unXF3hWBJ6m7fU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ro.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cbxNjPgcOx3X6xVXFcZrIMZas+lQ2KIGtXqmaEehyGA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_1-1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lzM7SlPvx18FzuOhp0AfctCjH872VUYhotrEmV/bjj8=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_128-32.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nxJMmc39cm6sjewdRFv7mVHN62HynJzISegXtemahqE=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_16-4.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gBiXF2YDIq+dMhZNzmXGIviFDDKW65Wwd5MGxawE07s=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_2-1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			locpte2xHJxxYikj3vpYPAO4Fm0BJbKH3qAMUEHC6AQ=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_256-64.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xWNHfxSxFwcTcbRx6ksenSsdQax+gxZj5zqKa4P5bWE=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_32-8.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iBDn2L41GYIiiENv/p0efRgu7EM6L1eut92OA3dwsiM=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_4-1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ucj2pK8WExUWdTnnnvWIu9iE9PEOo0rSvhyP+qAhUe0=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_64-16.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7X62FR3qKLKgCi3mkwhoJfSYdhXVzy/pTp6j1wtdE1s=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/road_8-2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pvfCkomVwJ0KZwclEtmUR11mSagaN9LrXrn58aC8Afw=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/ru.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FXnJQfKPLDxNsF23gCKdicdD9DOtT7ejNgD0aaBKKYs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/sk.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			izx5uZ9/DYYePSRiE6yvfzh7F0TpzPBecCYP0XLvFHk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/sv.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oOB3sM4qrHaQQsFsnSzhEasZ2nX1L/7WdNMn11cYY60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/th.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			53s225MYddDqMUjeJDwDBW2eDH/XMabr5mofvV1GyFI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/tr.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mjRj/gY1mcahmprzfAO8y1lkz3DA8TzjXUSFvTTist8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zgyJR53kUIuM4Tv15tBOl6/sXke4kcYiR2qpVBHESqU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/vi.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mL6Qqalzre9jqG4+Cq/kgb4+QTot1v5kVA2vO5YjyYY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/zh_CN.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XrQMTIupWv7RW21UP0o51bIju9oD3KdmM9Ss64bao2g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/zh_HK.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8JXuYBdQVFA0h/TwcfqMa5/KDSZhGOsXqCH7eWWYF78=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/GMSCoreResources.bundle/zh_TW.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SUgLr+UufxqsZOyoi4E4DO+5aWidf0RabTcyGeDho5k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ei8uwsDxMRs1KtsvBALQQ5vmfigsRjsdlW+pcFkc3co=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_left.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			esJZo0DQ/iA9fGTeZgnhHBaaXjKiwF0Q+D77afKUdtQ=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_left@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			85j4wRMjUhbJzw2Cj/dcdiSaIcvVJMiwY8pyr9uAvoQ=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_left@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CC5oWJdSl7qbV3Nhcm9VlpgXL0MZNtSwnDkXPFFjOAs=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_right.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			af0tM2SZMSGEXPSOUwN7JZ7as/APH644Mlk2l4IWqms=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_right@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2tW3XA24iExRY3gHrbutr+hAVYLNOk3LrSXZmHRjUIA=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/bubble_right@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			02zlKov8Ubrnz7aJ/JXa+qQ073+mO2gy2CgeYrDNF18=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/default_marker.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			887sC+aoN4dU/vbAxS4n+OVJF0OhaWtI5+ApUiAo4OI=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/default_marker@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			li0yHMe3GXzy6oYRXekDdiGI1lMKUe6WiOCFJxC3+3w=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/default_marker@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CKZ6iFy+RrstUS7CKGBG4IwG/33OisBfa5HXSMu8aXs=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/ic_error.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZELicqEYSjWiwLH5Bpm+L59wifWIeso6rvF1uk5JPN8=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/ic_error@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g+br70qT4Wo8OHYO9GEnd5pkjYLVQsyw1W8T8+pd7Xo=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/ic_error@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l/lLCEplaZnTitN6/IXGuLZM5QXaxaSim9fc8XsRb3c=
+			</data>
+		</dict>
+		<key>IndoorKit.bundle/GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			frKw9+N3pIKs5lrGN66xgALWCzHzfdudrVrGkiGunHI=
+			</data>
+		</dict>
 		<key>IndoorKit.bundle/IDInstructionsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -5314,7 +6462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQ9si3Z5O75Lwo5ydkb24WJowaxGd/hrAaE6Td/vnPo=
+			PRkEtaFnwi/yqPRkAj1+ACKUm6WuIj30ogvxmweMH/A=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/Images/Instruction/continue_to_destination.png</key>
@@ -5426,7 +6574,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eoCw7hRwLb+r9Fq15NNQOPr+fcBz/qTJ3WvODe4DQr0=
+			kcLkLRUV+Qazr5QlZm2knZ/hDLneR5GGInqIKp9rdYc=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/Images/Instruction/type_6.png</key>
@@ -5580,7 +6728,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ft5iL8TMP9Izs/+TG0P0y5n9kkhecuMRMs6HDyZRzWM=
+			fJXiyVnZZD6XupbA+tMIDJYuku6w3v/bl1qv4bl/A+s=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/Images/MapIcons/destination_point_old.png</key>
@@ -5888,7 +7036,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fRMkvjzLYiI9Xvl4AVbKoWadVyYza2XogE29o68Pp2Y=
+			igWWrtgw/3bPalKlXDk5sCMHEGjSP9IM5T0VMwD550w=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/Images/MapIcons/origin_point_old.png</key>
@@ -6224,14 +7372,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yGDYoXSQ7UuROm1SXJNQafJsHd+QIjePSBcd36LLOWA=
+			s1T6u0M3ap2BRK48g7K6BUySwak9qU3SauQ7O2OQHIU=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QB3AYFNYmdCuAxLf5oaF+o8WxFD06csm2hbRP5k4SxY=
+			nW+uwVbygOjsqHYhuh1Tqmii3zUQinkqBah9bgzfDr8=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/OutdoorMapViewController.nib</key>
@@ -6241,39 +7389,11 @@
 			mcQzfJPdD4tgxmYG6dUUXXdQ2wbHrV2VvXNP2qzSysc=
 			</data>
 		</dict>
-		<key>IndoorKit.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WxrB/vyIEQ1ndLMJ/T46Wde6HVKke0pvp+ve/giqit8=
-			</data>
-		</dict>
-		<key>IndoorKit.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>IndoorKit.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dGwVKZ0ByaOj0CXmgjVFXTEBtB1C7FxO8tOjWPPapVQ=
-			</data>
-		</dict>
 		<key>IndoorKit.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QfzsUiR4VaDPm4V2jYhAfDMj0JnfArCrXBVCfA8DHA8=
-			</data>
-		</dict>
-		<key>IndoorKit.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			aVpWJd5juYXuxCPBX/Tk9ha8ZGh5wEv9O1Om80x543U=
 			</data>
 		</dict>
 		<key>IndoorKit.bundle/instructionsPlist/instructions-en.plist</key>

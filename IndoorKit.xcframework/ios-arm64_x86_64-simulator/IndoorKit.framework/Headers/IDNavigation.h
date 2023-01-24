@@ -12,5 +12,6 @@
 #import "IDCampusSegment.h"
 #import "IDNavigationDelegate.h"
 #import "IDGeofenceDelegate.h"
+#import "IDCampaign.h"
 #import "IDLocationListener.h"
 #import "IDConvertedLocationListener.h"

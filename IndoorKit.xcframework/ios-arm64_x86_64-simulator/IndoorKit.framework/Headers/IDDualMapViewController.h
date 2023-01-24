@@ -8,14 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-#import <GoogleMaps/GoogleMaps.h>
-
 #import "IDNavigationDelegate.h"
 #import "IDDualMapViewControllerDelegate.h"
 
 #import "IDUISettings.h"
 #import "IDMapViewProtocol.h"
 #import "IDLocationListener.h"
+
+@class GMSMapView;
 
 @interface IDDualMapViewController : UIViewController <IDMapViewProtocol, IDNavigationDelegate, IDLocationListener>
 
