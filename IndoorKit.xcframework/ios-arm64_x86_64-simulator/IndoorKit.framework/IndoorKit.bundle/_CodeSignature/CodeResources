@@ -394,6 +394,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/iw.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xgFKAKyAH3YYZtX+0y1mdX6WhVU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
@@ -453,6 +462,15 @@
 			<key>hash</key>
 			<data>
 			jc7ZunVeR/4RHErYmTit+mjTprE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gIrkbb39VnY+TOyLIbx45uH40lY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -591,6 +609,46 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_endcap.png</key>
+		<data>
+		JMIzIZ9izwPLkFbGpybEDcjnz7c=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast.png</key>
+		<data>
+		AAR1u0EDgizTO6c+arDush1MFXQ=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast_night.png</key>
+		<data>
+		20aMPRfTp4RiaEJ3gmioP38pYck=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow.png</key>
+		<data>
+		RjXvPqYlk8TLbeVMqI1rRLGGxkM=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow_night.png</key>
+		<data>
+		QSU98IRtVJFtlfNGOUjel2Eq+1c=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_startcap.png</key>
+		<data>
+		G+epinU1D/ABNNd9znBSZ13ndrE=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go.png</key>
+		<data>
+		AMt9ccrqHczFtAFDe6+VLmtwYEU=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go_night.png</key>
+		<data>
+		iRrGWbJn8f/O0D0bmZL8s3ivjoU=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped.png</key>
+		<data>
+		gdjNv/dDFdFHlN/jV6678f3dtEo=
+		</data>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped_night.png</key>
+		<data>
+		DErXBfMg+reu+FeXyAGYDtoI3ZI=
+		</data>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1222,7 +1280,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bOzPxKGcSkWti0bYCf+2iFBroqU=
+		PX1BHWBMlLjhtTSQGntHwFIBqy0=
+		</data>
+		<key>NewPoiMarkerView.nib</key>
+		<data>
+		uAhYHengkEXtaR9iXLtK2l6wou4=
 		</data>
 		<key>OutdoorMapViewController.nib</key>
 		<data>
@@ -2093,6 +2155,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/iw.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FQj5xEOMy9pKn1hl0VuJKy5TXuhj4WeZs9DSpr0LFAw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj/GMSCore.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -2152,6 +2223,15 @@
 			<key>hash2</key>
 			<data>
 			LodzOqZc692AERdHFw7Daj3oYYCx/D3fr6oaNUrWwvM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj/GMSCore.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H1yxH+puBriCgRZ1K7g6z5Z+gBfnTDZnYM1m/pVF1Zk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2322,6 +2402,76 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_endcap.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LRveTLcg79RcFKLPlICnbpy9cMLFjvpirtWiug8ENh4=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ojQmJmupqVHIBdTJ93dUYMOg3Bg0OPQbpqcX5jAU+ZQ=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast_night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NGNYPzQiYUMi8ED8Wc9w8OGU2s8cjpceluuKrYcgJ2k=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9X01yy+QLrGikjXpDzB+9BC1mzC+eHC3Kmx/MnnfkOE=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow_night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Xs2MWbwrqL1ySHtvWB5TmPfj231cwvbRBAUGuwCjC0c=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_startcap.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sjvl6HdTaXxkEnfXJPwFre8lYgfOf9V+C6R4DAut5Z4=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MZ09pFs9n/74PhYWeDGIKQBaWt3Whc+PlR5gSnzeUZU=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go_night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wq42PGVY8v/vUB0oifRyHArSZJqTJSOCuGUtufxje24=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NcCwwed+m/7rIH8OIgMrW/j6rULM7KVhDLoe72dckYM=
+			</data>
+		</dict>
+		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped_night.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BzNaQs9vMeZ98yydG7Sx+S8Rtb/RQqEGdlP/NWl5jEA=
+			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
 		<dict>
@@ -3388,6 +3538,13 @@
 			<key>hash2</key>
 			<data>
 			s1T6u0M3ap2BRK48g7K6BUySwak9qU3SauQ7O2OQHIU=
+			</data>
+		</dict>
+		<key>NewPoiMarkerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5+9u3LBuu6ZhvkthcNa+cJPGJFaK14eUazrQg+ZKLIo=
 			</data>
 		</dict>
 		<key>OutdoorMapViewController.nib</key>

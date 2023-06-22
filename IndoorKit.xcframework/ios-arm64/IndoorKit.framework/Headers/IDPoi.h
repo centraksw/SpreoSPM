@@ -36,6 +36,10 @@
  */
 @property (nonatomic, strong, readonly) NSString *identifier;
 
+/*!
+ * @brief The Poi Unique Source Identifier.
+ */
+@property (nonatomic, strong) NSString *sourceId;
 
 /*!
  * @brief The Poi Categories Array.
@@ -65,13 +69,14 @@
 @property (nonatomic) int showType;
 @property (nonatomic, strong) UIImage* iconWithTitle;
 @property (nonatomic, strong) UIImage* iconJustTitle;
-@property (nonatomic) float zoomValue;
+@property (nonatomic, strong) NSNumber *zoomValue;
+@property (nonatomic, strong) NSString *categoryZoomValue;
 /*!
  * @brief The Poi Info Dictionary.
  */
 @property (nonatomic, strong) IDPoiDistance *poiDistance;
- 
-
+@property (nonatomic, assign) BOOL staffOnly;
+@property (nonatomic, strong) NSString *parkingPoiID;
 /*!
  *  IDPoi designated Intitializer
  *
@@ -104,5 +109,8 @@
                       categories:(NSArray<NSString *> *)categories
                         location:(IDLocation *)aLocation
                          andInfo:(NSDictionary *)aDictionary NS_DESIGNATED_INITIALIZER;
+
+- (instancetype)initPoiWithDictionary:(NSDictionary *)dict;
+
 
 @end

@@ -44,3 +44,6 @@
 //
 #define kHead                       @"head"
 #define kGalleries                  @"gallery"
+
+#define kZoomLevel                  @"zoomLevel"
+#define kCategoryZoomLevel          @"CategoryZoomLevel "
