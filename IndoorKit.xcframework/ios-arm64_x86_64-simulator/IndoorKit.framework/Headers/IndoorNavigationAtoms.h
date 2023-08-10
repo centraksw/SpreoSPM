@@ -27,6 +27,7 @@ typedef enum {
 @property (nonatomic, strong) NSString* bssid;
 @property (nonatomic, assign) int level;
 @property (nonatomic, assign) BOOL unknown;
+@property (nonatomic, assign) int batteryLevel;
 
 + (instancetype)blipWithID:(NSString *)anId andLevel:(int)aLevel;
 + (instancetype)blipWithDictionary:(NSDictionary *)aDict;
